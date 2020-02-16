@@ -1,0 +1,32 @@
+[02-Aug-2018 14:29:35 UTC] PHP Warning:  include_once(includes/helpers.inc.php): failed to open stream: No such file or directory in /home/veroyori/public_html/reset_password/password_reset.html.php on line 1
+[02-Aug-2018 14:29:35 UTC] PHP Warning:  include_once(): Failed opening 'includes/helpers.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/veroyori/public_html/reset_password/password_reset.html.php on line 1
+[02-Aug-2018 14:29:35 UTC] PHP Notice:  Undefined variable: s in /home/veroyori/public_html/reset_password/password_reset.html.php on line 145
+[02-Aug-2018 14:30:52 UTC] PHP Notice:  Undefined variable: s in /home/veroyori/public_html/reset_password/password_reset.html.php on line 145
+[02-Aug-2018 14:33:26 UTC] PHP Notice:  Undefined variable: s in /home/veroyori/public_html/reset_password/password_reset.html.php on line 145
+[02-Aug-2018 14:39:15 UTC] PHP Warning:  include_once(includes/helpers.inc.php): failed to open stream: No such file or directory in /home/veroyori/public_html/reset_password/password_reset.html.php on line 1
+[02-Aug-2018 14:39:15 UTC] PHP Warning:  include_once(): Failed opening 'includes/helpers.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/veroyori/public_html/reset_password/password_reset.html.php on line 1
+[02-Aug-2018 14:39:15 UTC] PHP Notice:  Undefined variable: s in /home/veroyori/public_html/reset_password/password_reset.html.php on line 145
+[02-Aug-2018 14:39:51 UTC] PHP Warning:  include_once(includes/helpers.inc.php): failed to open stream: No such file or directory in /home/veroyori/public_html/reset_password/password_reset.html.php on line 1
+[02-Aug-2018 14:39:51 UTC] PHP Warning:  include_once(): Failed opening 'includes/helpers.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/veroyori/public_html/reset_password/password_reset.html.php on line 1
+[02-Aug-2018 14:39:51 UTC] PHP Notice:  Undefined variable: s in /home/veroyori/public_html/reset_password/password_reset.html.php on line 145
+[02-Aug-2018 14:40:38 UTC] PHP Notice:  Undefined variable: s in /home/veroyori/public_html/reset_password/password_reset.html.php on line 145
+[02-Aug-2018 14:43:33 UTC] PHP Notice:  Undefined variable: s in /home/veroyori/public_html/reset_password/password_reset.html.php on line 145
+[02-Aug-2018 14:58:23 UTC] PHP Notice:  Undefined variable: s in /home/veroyori/public_html/reset_password/password_reset.html.php on line 145
+[02-Aug-2018 17:40:16 UTC] PHP Notice:  Undefined variable: s in /home/veroyori/public_html/reset_password/password_reset.html.php on line 145
+[09-Aug-2018 06:02:50 UTC] PHP Notice:  Undefined variable: s in /home/veroyori/public_html/reset_password/password_reset.html.php on line 145
+[11-Aug-2018 07:31:46 UTC] PHP Notice:  Undefined variable: s in /home/veroyori/public_html/reset_password/password_reset.html.php on line 145
+[11-Aug-2018 08:01:07 UTC] PHP Notice:  Undefined variable: s in /home/veroyori/public_html/reset_password/password_reset.html.php on line 145
+[11-Aug-2018 13:52:05 UTC] PHP Notice:  Undefined variable: s in /home/veroyori/public_html/reset_password/password_reset.html.php on line 143
+[11-Aug-2018 13:58:24 UTC] PHP Notice:  Undefined variable: s in /home/veroyori/public_html/reset_password/password_reset.html.php on line 143
+[11-Aug-2018 13:58:40 UTC] PHP Notice:  Undefined variable: s in /home/veroyori/public_html/reset_password/password_reset.html.php on line 143
+[11-Aug-2018 13:59:00 UTC] PHP Notice:  Undefined variable: s in /home/veroyori/public_html/reset_password/password_reset.html.php on line 143
+[11-Aug-2018 14:16:56 UTC] PHP Notice:  Undefined variable: s in /home/veroyori/public_html/reset_password/password_reset.html.php on line 144
+[16-Aug-2018 20:27:14 UTC] PHP Notice:  Undefined variable: s in /home/veroyori/public_html/reset_password/password_reset.html.php on line 144
+[21-Aug-2018 20:57:26 UTC] PHP Notice:  Undefined variable: s in /home/veroyori/public_html/reset_password/password_reset.html.php on line 144
+[21-Aug-2018 20:59:37 UTC] PHP Notice:  Undefined variable: s in /home/veroyori/public_html/reset_password/password_reset.html.php on line 145
+[21-Aug-2018 21:01:03 UTC] PHP Notice:  Undefined variable: s in /home/veroyori/public_html/reset_password/password_reset.html.php on line 145
+[21-Aug-2018 21:02:41 UTC] PHP Notice:  Undefined variable: s in /home/veroyori/public_html/reset_password/password_reset.html.php on line 146
+[21-Aug-2018 21:07:40 UTC] PHP Notice:  Undefined variable: s in /home/veroyori/public_html/reset_password/password_reset.html.php on line 147
+[21-Aug-2018 21:14:32 UTC] PHP Warning:  include(../../includes/db.inc.php): failed to open stream: No such file or directory in /home/veroyori/public_html/reset_password/password_reset.html.php on line 98
+[21-Aug-2018 21:14:32 UTC] PHP Warning:  include(../../includes/db.inc.php): failed to open stream: No such file or directory in /home/veroyori/public_html/reset_password/password_reset.html.php on line 98
+[21-Aug-2018 21:14:32 UTC] PHP Warning:  include(): Failed opening '../../includes/db.inc.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/veroyori/public_html/reset_password/password_reset.html.php on line 98

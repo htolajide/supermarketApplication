@@ -1,0 +1,76 @@
+[04-Dec-2017 22:59:36 UTC] PHP Notice:  Undefined variable: greeting in /home/veroyori/public_html/admin/Users/error.html.php on line 42
+[04-Dec-2017 23:02:31 UTC] PHP Notice:  Undefined variable: greeting in /home/veroyori/public_html/admin/Users/error.html.php on line 42
+[04-Dec-2017 23:02:46 UTC] PHP Notice:  Undefined variable: greeting in /home/veroyori/public_html/admin/Users/error.html.php on line 42
+[04-Dec-2017 23:03:12 UTC] PHP Notice:  Undefined variable: greeting in /home/veroyori/public_html/admin/Users/error.html.php on line 42
+[04-Dec-2017 23:10:07 UTC] PHP Notice:  Undefined variable: greeting in /home/veroyori/public_html/admin/Users/error.html.php on line 42
+[04-Dec-2017 23:10:30 UTC] PHP Notice:  Undefined variable: greeting in /home/veroyori/public_html/admin/Users/error.html.php on line 42
+[04-Dec-2017 23:11:01 UTC] PHP Notice:  Undefined variable: greeting in /home/veroyori/public_html/admin/Users/error.html.php on line 42
+[04-Dec-2017 23:11:56 UTC] PHP Notice:  Undefined variable: greeting in /home/veroyori/public_html/admin/Users/error.html.php on line 42
+[04-Dec-2017 23:18:06 UTC] PHP Notice:  Undefined variable: greeting in /home/veroyori/public_html/admin/Users/error.html.php on line 42
+[04-Dec-2017 23:18:29 UTC] PHP Notice:  Undefined variable: greeting in /home/veroyori/public_html/admin/Users/error.html.php on line 42
+[05-Dec-2017 06:04:28 UTC] PHP Warning:  include(error.html.phpexception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'veroyori_veroyor'@'localhost' to database 'veroyori_pos'' in /home/veroyori/public_html/includes/db.inc.php:4
+Stack trace:
+#0 /home/veroyori/public_html/includes/db.inc.php(4): PDO-&gt;__construct('mysql:host=loca...', 'veroyori_veroyo...', 'veroyori2017')
+#1 /home/veroyori/public_html/includes/access.inc.php(57): include('/home/veroyori/...')
+#2 /home/veroyori/public_html/includes/access.inc.php(16): databaseContainsAuthor('thatguy@kevinya...', 'ba4e981fe985b43...')
+#3 /home/veroyori/public_html/admin/Users/index.php(7): userIsLoggedIn()
+#4 {main}): failed to open stream: No such file or directory in /home/veroyori/public_html/includes/db.inc.php on line 11
+[05-Dec-2017 06:04:28 UTC] PHP Warning:  include(error.html.phpexception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'veroyori_veroyor'@'localhost' to database 'veroyori_pos'' in /home/veroyori/public_html/includes/db.inc.php:4
+Stack trace:
+#0 /home/veroyori/public_html/includes/db.inc.php(4): PDO-&gt;__construct('mysql:host=loca...', 'veroyori_veroyo...', 'veroyori2017')
+#1 /home/veroyori/public_html/includes/access.inc.php(57): include('/home/veroyori/...')
+#2 /home/veroyori/public_html/includes/access.inc.php(16): databaseContainsAuthor('thatguy@kevinya...', 'ba4e981fe985b43...')
+#3 /home/veroyori/public_html/admin/Users/index.php(7): userIsLoggedIn()
+#4 {main}): failed to open stream: No such file or directory in /home/veroyori/public_html/includes/db.inc.php on line 11
+[05-Dec-2017 06:04:28 UTC] PHP Warning:  include(): Failed opening 'error.html.phpexception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'veroyori_veroyor'@'localhost' to database 'veroyori_pos'' in /home/veroyori/public_html/includes/db.inc.php:4
+Stack trace:
+#0 /home/veroyori/public_html/includes/db.inc.php(4): PDO-&gt;__construct('mysql:host=loca...', 'veroyori_veroyo...', 'veroyori2017')
+#1 /home/veroyori/public_html/includes/access.inc.php(57): include('/home/veroyori/...')
+#2 /home/veroyori/public_html/includes/access.inc.php(16): databaseContainsAuthor('thatguy@kevinya...', 'ba4e981fe985b43...')
+#3 /home/veroyori/public_html/admin/Users/index.php(7): userIsLoggedIn()
+#4 {main}' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/veroyori/public_html/includes/db.inc.php on line 11
+[05-Dec-2017 06:06:27 UTC] PHP Warning:  include(error.html.phpexception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'veroyori_veroyor'@'localhost' to database 'veroyori_pos'' in /home/veroyori/public_html/includes/db.inc.php:4
+Stack trace:
+#0 /home/veroyori/public_html/includes/db.inc.php(4): PDO-&gt;__construct('mysql:host=loca...', 'veroyori_veroyo...', 'veroyori2017')
+#1 /home/veroyori/public_html/includes/access.inc.php(57): include('/home/veroyori/...')
+#2 /home/veroyori/public_html/includes/access.inc.php(16): databaseContainsAuthor('thatguy@kevinya...', 'ba4e981fe985b43...')
+#3 /home/veroyori/public_html/admin/Users/index.php(7): userIsLoggedIn()
+#4 {main}): failed to open stream: No such file or directory in /home/veroyori/public_html/includes/db.inc.php on line 11
+[05-Dec-2017 06:06:27 UTC] PHP Warning:  include(error.html.phpexception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'veroyori_veroyor'@'localhost' to database 'veroyori_pos'' in /home/veroyori/public_html/includes/db.inc.php:4
+Stack trace:
+#0 /home/veroyori/public_html/includes/db.inc.php(4): PDO-&gt;__construct('mysql:host=loca...', 'veroyori_veroyo...', 'veroyori2017')
+#1 /home/veroyori/public_html/includes/access.inc.php(57): include('/home/veroyori/...')
+#2 /home/veroyori/public_html/includes/access.inc.php(16): databaseContainsAuthor('thatguy@kevinya...', 'ba4e981fe985b43...')
+#3 /home/veroyori/public_html/admin/Users/index.php(7): userIsLoggedIn()
+#4 {main}): failed to open stream: No such file or directory in /home/veroyori/public_html/includes/db.inc.php on line 11
+[05-Dec-2017 06:06:27 UTC] PHP Warning:  include(): Failed opening 'error.html.phpexception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'veroyori_veroyor'@'localhost' to database 'veroyori_pos'' in /home/veroyori/public_html/includes/db.inc.php:4
+Stack trace:
+#0 /home/veroyori/public_html/includes/db.inc.php(4): PDO-&gt;__construct('mysql:host=loca...', 'veroyori_veroyo...', 'veroyori2017')
+#1 /home/veroyori/public_html/includes/access.inc.php(57): include('/home/veroyori/...')
+#2 /home/veroyori/public_html/includes/access.inc.php(16): databaseContainsAuthor('thatguy@kevinya...', 'ba4e981fe985b43...')
+#3 /home/veroyori/public_html/admin/Users/index.php(7): userIsLoggedIn()
+#4 {main}' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/veroyori/public_html/includes/db.inc.php on line 11
+[05-Dec-2017 06:12:05 UTC] PHP Warning:  include(error.html.phpexception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'veroyori_veroyor'@'globalhosting247.com' (using password: YES)' in /home/veroyori/public_html/includes/db.inc.php:4
+Stack trace:
+#0 /home/veroyori/public_html/includes/db.inc.php(4): PDO-&gt;__construct('mysql:host=Glob...', 'veroyori_veroyo...', 'veroyori2017')
+#1 /home/veroyori/public_html/includes/access.inc.php(57): include('/home/veroyori/...')
+#2 /home/veroyori/public_html/includes/access.inc.php(16): databaseContainsAuthor('thatguy@kevinya...', 'ba4e981fe985b43...')
+#3 /home/veroyori/public_html/admin/Users/index.php(7): userIsLoggedIn()
+#4 {main}): failed to open stream: No such file or directory in /home/veroyori/public_html/includes/db.inc.php on line 11
+[05-Dec-2017 06:12:05 UTC] PHP Warning:  include(error.html.phpexception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'veroyori_veroyor'@'globalhosting247.com' (using password: YES)' in /home/veroyori/public_html/includes/db.inc.php:4
+Stack trace:
+#0 /home/veroyori/public_html/includes/db.inc.php(4): PDO-&gt;__construct('mysql:host=Glob...', 'veroyori_veroyo...', 'veroyori2017')
+#1 /home/veroyori/public_html/includes/access.inc.php(57): include('/home/veroyori/...')
+#2 /home/veroyori/public_html/includes/access.inc.php(16): databaseContainsAuthor('thatguy@kevinya...', 'ba4e981fe985b43...')
+#3 /home/veroyori/public_html/admin/Users/index.php(7): userIsLoggedIn()
+#4 {main}): failed to open stream: No such file or directory in /home/veroyori/public_html/includes/db.inc.php on line 11
+[05-Dec-2017 06:12:05 UTC] PHP Warning:  include(): Failed opening 'error.html.phpexception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'veroyori_veroyor'@'globalhosting247.com' (using password: YES)' in /home/veroyori/public_html/includes/db.inc.php:4
+Stack trace:
+#0 /home/veroyori/public_html/includes/db.inc.php(4): PDO-&gt;__construct('mysql:host=Glob...', 'veroyori_veroyo...', 'veroyori2017')
+#1 /home/veroyori/public_html/includes/access.inc.php(57): include('/home/veroyori/...')
+#2 /home/veroyori/public_html/includes/access.inc.php(16): databaseContainsAuthor('thatguy@kevinya...', 'ba4e981fe985b43...')
+#3 /home/veroyori/public_html/admin/Users/index.php(7): userIsLoggedIn()
+#4 {main}' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/veroyori/public_html/includes/db.inc.php on line 11
+[05-Dec-2017 06:14:22 UTC] PHP Notice:  Undefined variable: greeting in /home/veroyori/public_html/admin/Users/error.html.php on line 42
+[05-Dec-2017 06:16:17 UTC] PHP Notice:  Undefined variable: greeting in /home/veroyori/public_html/admin/Users/error.html.php on line 42
+[05-Dec-2017 06:27:22 UTC] PHP Notice:  Undefined variable: greeting in /home/veroyori/public_html/admin/Users/error.html.php on line 42

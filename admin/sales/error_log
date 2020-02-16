@@ -1,0 +1,634 @@
+[05-Dec-2017 20:55:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/products.html.php on line 158
+[05-Dec-2017 20:55:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 152
+[05-Dec-2017 20:56:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/products.html.php on line 158
+[05-Dec-2017 20:56:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/products.html.php on line 158
+[05-Dec-2017 20:56:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/products.html.php on line 158
+[05-Dec-2017 20:57:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/products.html.php on line 158
+[05-Dec-2017 20:57:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 152
+[05-Dec-2017 20:57:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/products.html.php on line 158
+[05-Dec-2017 20:57:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/products.html.php on line 158
+[05-Dec-2017 21:00:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/products.html.php on line 158
+[05-Dec-2017 21:00:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/products.html.php on line 158
+[05-Dec-2017 21:00:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/products.html.php on line 158
+[05-Dec-2017 21:01:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/products.html.php on line 158
+[05-Dec-2017 21:01:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/products.html.php on line 158
+[05-Dec-2017 21:01:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/products.html.php on line 158
+[05-Dec-2017 21:01:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/products.html.php on line 158
+[05-Dec-2017 21:01:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 152
+[05-Dec-2017 21:01:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/products.html.php on line 158
+[05-Dec-2017 21:01:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/products.html.php on line 158
+[05-Dec-2017 21:02:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/products.html.php on line 158
+[05-Dec-2017 21:50:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/index.php on line 758
+[05-Dec-2017 21:53:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/index.php on line 758
+[05-Dec-2017 21:53:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/index.php on line 758
+[05-Dec-2017 21:53:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/index.php on line 758
+[07-Dec-2017 21:21:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 106
+[07-Dec-2017 21:22:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 106
+[08-Dec-2017 23:38:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 106
+[19-Dec-2017 09:35:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 106
+[19-Dec-2017 09:46:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/index.php on line 758
+[02-Jan-2018 11:48:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/products.html.php on line 158
+[02-Jan-2018 11:49:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/products.html.php on line 158
+[02-Jan-2018 11:51:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/products.html.php on line 158
+[02-Jan-2018 11:51:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/products.html.php on line 158
+[02-Jan-2018 11:51:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/products.html.php on line 158
+[02-Jan-2018 11:57:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/products.html.php on line 158
+[02-Jan-2018 12:25:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/products.html.php on line 158
+[02-Jan-2018 12:28:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/products.html.php on line 158
+[02-Jan-2018 12:30:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/products.html.php on line 158
+[02-Jan-2018 19:20:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/products.html.php on line 158
+[02-Jan-2018 19:32:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 106
+[02-Jan-2018 19:34:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 106
+[02-Jan-2018 19:34:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/index.php on line 758
+[02-Jan-2018 20:04:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 106
+[02-Jan-2018 20:23:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/products.html.php on line 158
+[02-Jan-2018 20:26:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/products.html.php on line 158
+[02-Jan-2018 21:18:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 106
+[02-Jan-2018 21:20:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/products.html.php on line 158
+[02-Jan-2018 21:21:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/products.html.php on line 158
+[02-Jan-2018 21:22:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/products.html.php on line 158
+[02-Jan-2018 21:23:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/products.html.php on line 158
+[03-Jan-2018 17:41:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/products.html.php on line 158
+[03-Jan-2018 17:41:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/products.html.php on line 158
+[04-Jan-2018 13:05:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/products.html.php on line 158
+[04-Jan-2018 13:05:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/products.html.php on line 158
+[04-Jan-2018 13:06:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/products.html.php on line 158
+[08-Jan-2018 08:05:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/products.html.php on line 158
+[18-Jan-2018 06:41:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/veroyori/public_html/admin/Sales/index.php on line 899
+[18-Jan-2018 06:41:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/veroyori/public_html/admin/Sales/index.php on line 899
+[18-Jan-2018 06:41:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/veroyori/public_html/admin/Sales/index.php on line 899
+[18-Jan-2018 06:41:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/veroyori/public_html/admin/Sales/index.php on line 899
+[18-Jan-2018 06:41:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/veroyori/public_html/admin/Sales/index.php on line 899
+[18-Jan-2018 06:42:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/veroyori/public_html/admin/Sales/index.php on line 899
+[18-Jan-2018 06:43:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/veroyori/public_html/admin/Sales/index.php on line 899
+[18-Jan-2018 06:43:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/veroyori/public_html/admin/Sales/index.php on line 899
+[18-Jan-2018 06:43:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/veroyori/public_html/admin/Sales/index.php on line 899
+[18-Jan-2018 06:44:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/veroyori/public_html/admin/Sales/index.php on line 899
+[18-Jan-2018 06:44:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/veroyori/public_html/admin/Sales/index.php on line 899
+[18-Jan-2018 06:45:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 112
+[18-Jan-2018 06:45:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 112
+[18-Jan-2018 06:58:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 112
+[18-Jan-2018 06:59:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 112
+[18-Jan-2018 06:59:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 112
+[18-Jan-2018 07:00:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 112
+[18-Jan-2018 07:00:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 112
+[18-Jan-2018 07:06:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 112
+[18-Jan-2018 07:06:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 112
+[18-Jan-2018 07:06:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 112
+[18-Jan-2018 07:08:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 112
+[18-Jan-2018 07:09:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 111
+[18-Jan-2018 07:13:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 111
+[18-Jan-2018 07:20:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 113
+[18-Jan-2018 07:20:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 113
+[18-Jan-2018 07:21:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 113
+[18-Jan-2018 07:21:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 113
+[19-Jan-2018 07:10:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[19-Jan-2018 07:10:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[19-Jan-2018 07:10:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[19-Jan-2018 07:11:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[19-Jan-2018 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[20-Jan-2018 07:07:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[22-Jan-2018 07:23:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[22-Jan-2018 20:42:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/record.html.php on line 110
+[23-Jan-2018 05:35:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[23-Jan-2018 05:35:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[23-Jan-2018 05:36:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/record.html.php on line 110
+[23-Jan-2018 05:37:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/record.html.php on line 110
+[23-Jan-2018 05:41:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[23-Jan-2018 05:46:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[23-Jan-2018 05:51:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[23-Jan-2018 05:53:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[23-Jan-2018 05:58:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[23-Jan-2018 06:04:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[23-Jan-2018 06:06:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[23-Jan-2018 06:11:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[23-Jan-2018 06:18:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[23-Jan-2018 06:20:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[23-Jan-2018 06:23:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[23-Jan-2018 06:24:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[23-Jan-2018 06:26:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[23-Jan-2018 06:26:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[23-Jan-2018 06:28:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[23-Jan-2018 06:31:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[23-Jan-2018 06:31:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[23-Jan-2018 06:37:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[23-Jan-2018 06:59:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[23-Jan-2018 07:02:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[23-Jan-2018 08:19:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[23-Jan-2018 22:19:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/record.html.php on line 111
+[24-Jan-2018 07:49:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[24-Jan-2018 07:50:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[24-Jan-2018 07:50:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[26-Jan-2018 07:14:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[26-Jan-2018 07:15:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[26-Jan-2018 07:15:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[26-Jan-2018 07:30:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[26-Jan-2018 07:31:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[27-Jan-2018 07:19:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[28-Jan-2018 14:18:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[28-Jan-2018 14:20:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[29-Jan-2018 08:17:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[29-Jan-2018 10:14:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/index.php on line 798
+[29-Jan-2018 10:17:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/index.php on line 798
+[29-Jan-2018 10:30:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/index.php on line 798
+[29-Jan-2018 10:32:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/index.php on line 798
+[29-Jan-2018 10:34:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/index.php on line 798
+[29-Jan-2018 10:44:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/index.php on line 798
+[29-Jan-2018 10:48:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/index.php on line 798
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'brandname' in /home/veroyori/public_html/admin/Sales/products.html.php on line 120
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'pname' in /home/veroyori/public_html/admin/Sales/products.html.php on line 121
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'categoryname' in /home/veroyori/public_html/admin/Sales/products.html.php on line 122
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/veroyori/public_html/admin/Sales/products.html.php on line 123
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/veroyori/public_html/admin/Sales/products.html.php on line 123
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'price' in /home/veroyori/public_html/admin/Sales/products.html.php on line 124
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'branchname' in /home/veroyori/public_html/admin/Sales/products.html.php on line 125
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'productdate' in /home/veroyori/public_html/admin/Sales/products.html.php on line 126
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/veroyori/public_html/admin/Sales/products.html.php on line 129
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'pid' in /home/veroyori/public_html/admin/Sales/products.html.php on line 132
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'brandname' in /home/veroyori/public_html/admin/Sales/products.html.php on line 120
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'pname' in /home/veroyori/public_html/admin/Sales/products.html.php on line 121
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'categoryname' in /home/veroyori/public_html/admin/Sales/products.html.php on line 122
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/veroyori/public_html/admin/Sales/products.html.php on line 123
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'price' in /home/veroyori/public_html/admin/Sales/products.html.php on line 124
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'branchname' in /home/veroyori/public_html/admin/Sales/products.html.php on line 125
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'productdate' in /home/veroyori/public_html/admin/Sales/products.html.php on line 126
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/veroyori/public_html/admin/Sales/products.html.php on line 129
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'brandname' in /home/veroyori/public_html/admin/Sales/products.html.php on line 120
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'pname' in /home/veroyori/public_html/admin/Sales/products.html.php on line 121
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'categoryname' in /home/veroyori/public_html/admin/Sales/products.html.php on line 122
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/veroyori/public_html/admin/Sales/products.html.php on line 123
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'price' in /home/veroyori/public_html/admin/Sales/products.html.php on line 124
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'branchname' in /home/veroyori/public_html/admin/Sales/products.html.php on line 125
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'productdate' in /home/veroyori/public_html/admin/Sales/products.html.php on line 126
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/veroyori/public_html/admin/Sales/products.html.php on line 129
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'brandname' in /home/veroyori/public_html/admin/Sales/products.html.php on line 120
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'pname' in /home/veroyori/public_html/admin/Sales/products.html.php on line 121
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'categoryname' in /home/veroyori/public_html/admin/Sales/products.html.php on line 122
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/veroyori/public_html/admin/Sales/products.html.php on line 123
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/veroyori/public_html/admin/Sales/products.html.php on line 123
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'price' in /home/veroyori/public_html/admin/Sales/products.html.php on line 124
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'branchname' in /home/veroyori/public_html/admin/Sales/products.html.php on line 125
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'productdate' in /home/veroyori/public_html/admin/Sales/products.html.php on line 126
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/veroyori/public_html/admin/Sales/products.html.php on line 129
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'pid' in /home/veroyori/public_html/admin/Sales/products.html.php on line 132
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'brandname' in /home/veroyori/public_html/admin/Sales/products.html.php on line 120
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'pname' in /home/veroyori/public_html/admin/Sales/products.html.php on line 121
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'categoryname' in /home/veroyori/public_html/admin/Sales/products.html.php on line 122
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/veroyori/public_html/admin/Sales/products.html.php on line 123
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/veroyori/public_html/admin/Sales/products.html.php on line 123
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'price' in /home/veroyori/public_html/admin/Sales/products.html.php on line 124
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'branchname' in /home/veroyori/public_html/admin/Sales/products.html.php on line 125
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'productdate' in /home/veroyori/public_html/admin/Sales/products.html.php on line 126
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/veroyori/public_html/admin/Sales/products.html.php on line 129
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'pid' in /home/veroyori/public_html/admin/Sales/products.html.php on line 132
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'brandname' in /home/veroyori/public_html/admin/Sales/products.html.php on line 120
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'pname' in /home/veroyori/public_html/admin/Sales/products.html.php on line 121
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'categoryname' in /home/veroyori/public_html/admin/Sales/products.html.php on line 122
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/veroyori/public_html/admin/Sales/products.html.php on line 123
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'price' in /home/veroyori/public_html/admin/Sales/products.html.php on line 124
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'branchname' in /home/veroyori/public_html/admin/Sales/products.html.php on line 125
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'productdate' in /home/veroyori/public_html/admin/Sales/products.html.php on line 126
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/veroyori/public_html/admin/Sales/products.html.php on line 129
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'brandname' in /home/veroyori/public_html/admin/Sales/products.html.php on line 120
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'pname' in /home/veroyori/public_html/admin/Sales/products.html.php on line 121
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'categoryname' in /home/veroyori/public_html/admin/Sales/products.html.php on line 122
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/veroyori/public_html/admin/Sales/products.html.php on line 123
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'price' in /home/veroyori/public_html/admin/Sales/products.html.php on line 124
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'branchname' in /home/veroyori/public_html/admin/Sales/products.html.php on line 125
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'productdate' in /home/veroyori/public_html/admin/Sales/products.html.php on line 126
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/veroyori/public_html/admin/Sales/products.html.php on line 129
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'brandname' in /home/veroyori/public_html/admin/Sales/products.html.php on line 120
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'pname' in /home/veroyori/public_html/admin/Sales/products.html.php on line 121
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'categoryname' in /home/veroyori/public_html/admin/Sales/products.html.php on line 122
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/veroyori/public_html/admin/Sales/products.html.php on line 123
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/veroyori/public_html/admin/Sales/products.html.php on line 123
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'price' in /home/veroyori/public_html/admin/Sales/products.html.php on line 124
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'branchname' in /home/veroyori/public_html/admin/Sales/products.html.php on line 125
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'productdate' in /home/veroyori/public_html/admin/Sales/products.html.php on line 126
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/veroyori/public_html/admin/Sales/products.html.php on line 129
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'pid' in /home/veroyori/public_html/admin/Sales/products.html.php on line 132
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'brandname' in /home/veroyori/public_html/admin/Sales/products.html.php on line 120
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'pname' in /home/veroyori/public_html/admin/Sales/products.html.php on line 121
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'categoryname' in /home/veroyori/public_html/admin/Sales/products.html.php on line 122
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/veroyori/public_html/admin/Sales/products.html.php on line 123
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'price' in /home/veroyori/public_html/admin/Sales/products.html.php on line 124
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'branchname' in /home/veroyori/public_html/admin/Sales/products.html.php on line 125
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'productdate' in /home/veroyori/public_html/admin/Sales/products.html.php on line 126
+[29-Jan-2018 12:13:42 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/veroyori/public_html/admin/Sales/products.html.php on line 129
+[29-Jan-2018 13:56:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/index.php on line 798
+[29-Jan-2018 14:27:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/index.php on line 797
+[29-Jan-2018 14:55:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/index.php on line 797
+[29-Jan-2018 14:55:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/index.php on line 797
+[30-Jan-2018 11:10:26 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 11:10:29 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 11:10:32 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 11:10:35 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 11:10:42 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 11:10:53 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 11:11:52 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 11:11:55 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 11:24:49 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 11:24:49 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 11:24:52 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 11:30:43 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 11:46:11 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 11:46:25 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 11:46:27 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 11:46:29 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 11:46:47 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 11:46:51 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 11:47:54 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 11:47:57 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 11:48:07 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:34:37 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:34:54 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:35:15 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:35:19 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:35:23 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:35:25 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:35:28 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:35:30 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:35:32 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:35:34 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:35:54 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:35:58 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:36:02 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:36:04 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:38:22 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:38:31 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:38:37 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:47:32 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:49:03 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:49:23 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:55:11 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:55:14 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:55:26 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:55:28 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:55:32 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:55:34 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:55:37 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:55:45 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:55:52 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:55:54 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:55:57 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:56:28 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:56:40 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:56:43 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:56:59 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:57:01 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:57:04 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:57:47 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:57:57 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:58:03 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:58:06 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:58:16 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:58:26 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:58:45 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:58:48 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:58:58 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:59:01 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:59:08 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:59:11 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:59:13 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:59:19 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 12:59:24 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 13:06:11 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 13:15:34 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 13:56:58 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 14:27:24 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 14:28:02 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 14:28:07 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 14:29:04 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 15:11:55 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 15:11:58 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 15:59:54 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 16:43:53 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 16:47:36 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 17:56:04 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 17:56:23 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 17:57:24 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[30-Jan-2018 17:57:45 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 05:32:37 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 05:32:40 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 05:32:43 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 05:33:23 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 05:33:25 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 05:33:29 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 05:33:45 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 05:34:21 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 05:34:33 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 05:36:54 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 05:37:01 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 05:37:13 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 05:37:16 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 05:37:19 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 05:37:21 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 05:37:24 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 05:37:28 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 05:37:38 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 05:37:43 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 05:37:46 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 05:37:53 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 05:38:29 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 06:43:38 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 06:43:44 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 06:43:47 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 06:43:51 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 06:43:57 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 06:44:04 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 06:44:07 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 06:44:18 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 06:44:32 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 06:44:41 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 06:45:08 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 06:45:12 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 07:25:12 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 07:26:41 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 07:27:05 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 09:06:03 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 09:06:15 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 09:10:21 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 09:11:14 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 09:14:12 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 09:14:14 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 09:14:25 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 754
+[31-Jan-2018 09:15:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 115
+[31-Jan-2018 09:18:18 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 758
+[31-Jan-2018 09:18:27 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 758
+[31-Jan-2018 09:20:55 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 758
+[31-Jan-2018 09:20:57 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 758
+[31-Jan-2018 09:22:48 UTC] PHP Fatal error:  Call to undefined function curdate() in /home/veroyori/public_html/admin/Sales/index.php on line 743
+[31-Jan-2018 09:23:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[31-Jan-2018 09:24:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[31-Jan-2018 09:27:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[01-Feb-2018 03:52:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[01-Feb-2018 07:23:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[01-Feb-2018 07:23:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/record.html.php on line 111
+[01-Feb-2018 07:23:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[02-Feb-2018 06:39:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[02-Feb-2018 07:18:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[02-Feb-2018 07:18:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/record.html.php on line 111
+[03-Feb-2018 07:20:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[03-Feb-2018 07:20:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/record.html.php on line 111
+[03-Feb-2018 07:20:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[03-Feb-2018 07:21:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[04-Feb-2018 16:13:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[04-Feb-2018 16:21:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[04-Feb-2018 17:47:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[05-Feb-2018 07:29:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[05-Feb-2018 07:30:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[06-Feb-2018 07:26:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[06-Feb-2018 07:27:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/record.html.php on line 111
+[06-Feb-2018 07:27:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[06-Feb-2018 07:27:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/record.html.php on line 111
+[08-Feb-2018 07:26:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[09-Feb-2018 07:20:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[09-Feb-2018 07:21:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/record.html.php on line 111
+[09-Feb-2018 07:21:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[09-Feb-2018 07:22:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[09-Feb-2018 08:13:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[09-Feb-2018 08:13:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/record.html.php on line 111
+[09-Feb-2018 08:13:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[09-Feb-2018 08:16:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[09-Feb-2018 08:29:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[09-Feb-2018 08:30:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[09-Feb-2018 08:30:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[09-Feb-2018 08:31:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[09-Feb-2018 17:43:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/record.html.php on line 111
+[10-Feb-2018 07:37:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[10-Feb-2018 07:38:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[14-Feb-2018 07:16:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[14-Feb-2018 07:16:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[16-Feb-2018 01:26:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[16-Feb-2018 01:27:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/record.html.php on line 111
+[16-Feb-2018 01:28:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[17-Feb-2018 07:20:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[17-Feb-2018 07:21:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[18-Feb-2018 14:31:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[18-Feb-2018 14:33:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[21-Feb-2018 10:22:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[21-Feb-2018 10:23:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[21-Feb-2018 10:24:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[21-Feb-2018 16:10:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[21-Feb-2018 16:12:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[21-Feb-2018 16:13:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[21-Feb-2018 16:13:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[21-Feb-2018 16:15:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[21-Feb-2018 16:15:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[21-Feb-2018 16:18:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[21-Feb-2018 16:18:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/record.html.php on line 111
+[21-Feb-2018 16:39:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[21-Feb-2018 16:39:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[22-Feb-2018 15:24:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[27-Feb-2018 11:42:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 114
+[27-Feb-2018 12:04:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 128
+[27-Feb-2018 12:07:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 128
+[27-Feb-2018 12:08:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 128
+[27-Feb-2018 12:09:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 128
+[27-Feb-2018 14:33:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 128
+[27-Feb-2018 14:41:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 128
+[27-Feb-2018 14:42:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 128
+[28-Feb-2018 09:52:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 129
+[28-Feb-2018 09:52:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 129
+[28-Feb-2018 09:54:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 129
+[28-Feb-2018 15:28:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 129
+[01-Mar-2018 10:23:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 129
+[01-Mar-2018 12:49:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 129
+[01-Mar-2018 13:55:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/Sales/sales.html.php on line 129
+[01-Mar-2018 14:12:37 UTC] PHP Fatal error:  Call to a member function isEmpty() on null in /home/veroyori/public_html/admin/Sales/sales.html.php on line 129
+[11-Aug-2018 08:51:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 888
+[25-Aug-2018 01:39:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1231
+[25-Aug-2018 01:39:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1231
+[25-Aug-2018 03:49:12 UTC] PHP Warning:  Division by zero in /home/veroyori/public_html/admin/sales/index.php on line 787
+[25-Aug-2018 03:49:12 UTC] PHP Warning:  Division by zero in /home/veroyori/public_html/admin/sales/index.php on line 787
+[25-Aug-2018 03:50:19 UTC] PHP Warning:  Division by zero in /home/veroyori/public_html/admin/sales/index.php on line 787
+[25-Aug-2018 03:50:19 UTC] PHP Warning:  Division by zero in /home/veroyori/public_html/admin/sales/index.php on line 787
+[25-Aug-2018 03:54:51 UTC] PHP Warning:  Division by zero in /home/veroyori/public_html/admin/sales/index.php on line 787
+[25-Aug-2018 03:54:51 UTC] PHP Warning:  Division by zero in /home/veroyori/public_html/admin/sales/index.php on line 787
+[25-Aug-2018 04:14:36 UTC] PHP Warning:  Division by zero in /home/veroyori/public_html/admin/sales/index.php on line 787
+[25-Aug-2018 04:14:36 UTC] PHP Warning:  Division by zero in /home/veroyori/public_html/admin/sales/index.php on line 787
+[25-Aug-2018 04:27:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/products.html.php on line 127
+[25-Aug-2018 04:28:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/products.html.php on line 127
+[26-Aug-2018 17:46:28 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/veroyori/public_html/admin/sales/invoice.html.php on line 148
+[26-Aug-2018 17:46:41 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/veroyori/public_html/admin/sales/invoice.html.php on line 148
+[26-Aug-2018 17:46:48 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/veroyori/public_html/admin/sales/invoice.html.php on line 148
+[26-Aug-2018 17:47:19 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/veroyori/public_html/admin/sales/invoice.html.php on line 148
+[26-Aug-2018 17:47:29 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/veroyori/public_html/admin/sales/invoice.html.php on line 148
+[26-Aug-2018 17:47:33 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/veroyori/public_html/admin/sales/invoice.html.php on line 148
+[27-Aug-2018 06:58:11 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/veroyori/public_html/admin/sales/index.php on line 686
+[27-Aug-2018 06:58:19 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/veroyori/public_html/admin/sales/index.php on line 686
+[27-Aug-2018 06:58:24 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/veroyori/public_html/admin/sales/index.php on line 686
+[27-Aug-2018 07:02:31 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/veroyori/public_html/admin/sales/index.php on line 686
+[27-Aug-2018 07:02:32 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/veroyori/public_html/admin/sales/index.php on line 686
+[27-Aug-2018 07:02:43 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/veroyori/public_html/admin/sales/index.php on line 686
+[27-Aug-2018 19:22:59 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/veroyori/public_html/admin/sales/invoice.html.php on line 177
+[27-Aug-2018 19:23:08 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/veroyori/public_html/admin/sales/invoice.html.php on line 177
+[28-Aug-2018 00:03:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 98
+[28-Aug-2018 00:03:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 98
+[28-Aug-2018 00:03:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 98
+[28-Aug-2018 00:03:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 98
+[28-Aug-2018 00:03:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 98
+[28-Aug-2018 00:04:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 98
+[28-Aug-2018 00:04:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 98
+[28-Aug-2018 00:04:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 98
+[28-Aug-2018 00:04:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 98
+[28-Aug-2018 00:05:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 98
+[28-Aug-2018 00:05:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 98
+[28-Aug-2018 00:05:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 98
+[28-Aug-2018 00:06:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 98
+[28-Aug-2018 00:06:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 98
+[28-Aug-2018 00:06:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 98
+[28-Aug-2018 00:06:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 98
+[28-Aug-2018 00:07:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 98
+[28-Aug-2018 00:07:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 98
+[28-Aug-2018 10:22:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1518
+[28-Aug-2018 10:22:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1518
+[28-Aug-2018 10:22:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1518
+[28-Aug-2018 10:22:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1518
+[28-Aug-2018 10:22:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1518
+[28-Aug-2018 10:22:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1518
+[28-Aug-2018 10:23:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1518
+[28-Aug-2018 10:23:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1518
+[28-Aug-2018 10:23:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1518
+[28-Aug-2018 10:23:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1518
+[28-Aug-2018 10:23:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1518
+[28-Aug-2018 10:23:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1518
+[28-Aug-2018 14:20:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 974
+[28-Aug-2018 15:38:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/products.html.php on line 131
+[28-Aug-2018 15:38:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/products.html.php on line 131
+[28-Aug-2018 15:39:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/products.html.php on line 131
+[28-Aug-2018 15:39:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/products.html.php on line 131
+[28-Aug-2018 15:39:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/products.html.php on line 131
+[28-Aug-2018 15:42:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 977
+[28-Aug-2018 16:05:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transactionrecord.html.php on line 98
+[28-Aug-2018 16:06:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transactionrecord.html.php on line 98
+[28-Aug-2018 16:09:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transactionrecord.html.php on line 98
+[28-Aug-2018 16:10:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transactionrecord.html.php on line 98
+[28-Aug-2018 16:13:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 977
+[28-Aug-2018 16:33:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 980
+[28-Aug-2018 16:58:23 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/veroyori/public_html/admin/sales/index.php on line 1012
+[28-Aug-2018 16:58:37 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/veroyori/public_html/admin/sales/index.php on line 1012
+[28-Aug-2018 16:59:50 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/veroyori/public_html/admin/sales/index.php on line 1012
+[28-Aug-2018 17:00:33 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/veroyori/public_html/admin/sales/index.php on line 1012
+[28-Aug-2018 17:00:54 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/veroyori/public_html/admin/sales/index.php on line 1012
+[28-Aug-2018 17:16:20 UTC] PHP Fatal error:  Call to undefined function arra() in /home/veroyori/public_html/admin/sales/index.php on line 968
+[28-Aug-2018 17:17:19 UTC] PHP Fatal error:  Call to undefined function arra() in /home/veroyori/public_html/admin/sales/index.php on line 968
+[28-Aug-2018 17:19:20 UTC] PHP Fatal error:  Call to undefined function arra() in /home/veroyori/public_html/admin/sales/index.php on line 968
+[28-Aug-2018 17:20:26 UTC] PHP Fatal error:  Call to undefined function arra() in /home/veroyori/public_html/admin/sales/index.php on line 968
+[28-Aug-2018 21:43:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transactionrecord.html.php on line 98
+[29-Aug-2018 04:12:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 103
+[29-Aug-2018 04:12:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 103
+[29-Aug-2018 06:27:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 103
+[29-Aug-2018 06:27:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 103
+[29-Aug-2018 06:27:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 103
+[29-Aug-2018 06:27:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 103
+[29-Aug-2018 06:27:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 103
+[29-Aug-2018 11:20:34 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/veroyori/public_html/admin/sales/transaction.html.php on line 127
+[29-Aug-2018 11:20:47 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/veroyori/public_html/admin/sales/transaction.html.php on line 127
+[29-Aug-2018 11:21:02 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/veroyori/public_html/admin/sales/transaction.html.php on line 127
+[29-Aug-2018 11:43:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[29-Aug-2018 11:43:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[29-Aug-2018 11:43:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[29-Aug-2018 11:44:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[29-Aug-2018 11:44:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[29-Aug-2018 11:44:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[29-Aug-2018 11:45:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[29-Aug-2018 14:13:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1131
+[29-Aug-2018 14:13:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1131
+[29-Aug-2018 14:13:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1131
+[29-Aug-2018 14:13:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1131
+[29-Aug-2018 14:13:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1131
+[29-Aug-2018 14:13:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1131
+[29-Aug-2018 14:13:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1131
+[29-Aug-2018 14:13:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1131
+[29-Aug-2018 14:13:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1131
+[29-Aug-2018 14:13:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1131
+[29-Aug-2018 14:13:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1131
+[29-Aug-2018 14:13:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1131
+[29-Aug-2018 14:13:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1131
+[29-Aug-2018 14:13:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1131
+[29-Aug-2018 14:17:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1131
+[29-Aug-2018 14:17:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1131
+[29-Aug-2018 14:17:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1131
+[29-Aug-2018 14:17:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1131
+[29-Aug-2018 14:17:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1131
+[29-Aug-2018 14:17:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1131
+[29-Aug-2018 14:17:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1131
+[29-Aug-2018 14:17:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1131
+[29-Aug-2018 14:17:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1131
+[29-Aug-2018 14:17:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1131
+[29-Aug-2018 14:17:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1131
+[29-Aug-2018 14:17:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1131
+[29-Aug-2018 14:17:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1131
+[29-Aug-2018 14:17:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/index.php on line 1131
+[30-Aug-2018 04:14:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 04:14:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 04:14:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 04:14:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 04:15:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 04:15:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 04:15:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 04:26:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 04:26:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 08:43:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 08:43:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 14:00:20 UTC] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/veroyori/public_html/includes/helpers.inc.php on line 4
+[30-Aug-2018 14:00:56 UTC] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/veroyori/public_html/includes/helpers.inc.php on line 4
+[30-Aug-2018 14:01:09 UTC] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/veroyori/public_html/includes/helpers.inc.php on line 4
+[30-Aug-2018 14:43:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 14:43:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 15:10:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 15:10:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 15:10:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 15:10:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 15:10:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 15:10:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 15:10:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 15:10:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 15:11:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 15:11:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 15:11:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 15:11:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 15:11:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 15:12:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 15:12:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 15:12:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 15:12:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 15:12:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 15:12:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 15:13:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 15:13:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 15:13:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 15:14:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 15:14:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 15:14:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 15:14:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 15:14:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 15:15:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 15:15:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 102
+[30-Aug-2018 15:41:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 101
+[30-Aug-2018 15:42:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 101
+[30-Aug-2018 15:50:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 101
+[30-Aug-2018 16:23:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 101
+[30-Aug-2018 16:24:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 101
+[30-Aug-2018 16:24:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 101
+[30-Aug-2018 16:31:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 101
+[30-Aug-2018 16:31:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transactionrecord.html.php on line 96
+[30-Aug-2018 16:32:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 101
+[30-Aug-2018 16:33:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 101
+[30-Aug-2018 16:36:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 101
+[30-Aug-2018 17:09:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 101
+[30-Aug-2018 17:24:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 101
+[30-Aug-2018 17:24:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transactionrecord.html.php on line 96
+[30-Aug-2018 17:25:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 101
+[31-Aug-2018 12:47:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 101
+[31-Aug-2018 12:48:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 101
+[31-Aug-2018 14:42:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 101
+[31-Aug-2018 14:42:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/form.html.php on line 168
+[31-Aug-2018 14:49:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/form.html.php on line 168
+[31-Aug-2018 14:49:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/form.html.php on line 168
+[31-Aug-2018 14:57:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/form.html.php on line 168
+[31-Aug-2018 14:58:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/form.html.php on line 168
+[31-Aug-2018 14:59:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/form.html.php on line 168
+[31-Aug-2018 15:25:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 101
+[31-Aug-2018 15:27:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/veroyori/public_html/admin/sales/transaction.html.php on line 101
