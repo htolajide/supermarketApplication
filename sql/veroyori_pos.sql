@@ -1,15 +1,13 @@
 -- phpMyAdmin SQL Dump
--- version 4.7.7
--- https://www.phpmyadmin.net/
+-- version 4.5.1
+-- http://www.phpmyadmin.net
 --
--- Host: localhost:3306
--- Generation Time: Aug 31, 2018 at 03:40 PM
--- Server version: 5.6.39-cll-lve
--- PHP Version: 5.6.30
+-- Host: 127.0.0.1
+-- Generation Time: Feb 16, 2020 at 05:46 PM
+-- Server version: 10.1.19-MariaDB
+-- PHP Version: 7.0.13
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
-SET AUTOCOMMIT = 0;
-START TRANSACTION;
 SET time_zone = "+00:00";
 
 
@@ -21,6 +19,20 @@ SET time_zone = "+00:00";
 --
 -- Database: `veroyori_pos`
 --
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `attempted_logins`
+--
+
+CREATE TABLE `attempted_logins` (
+  `id` int(30) NOT NULL,
+  `email` varchar(150) NOT NULL,
+  `password` varchar(150) NOT NULL,
+  `succeeded` tinyint(1) NOT NULL,
+  `created_at` datetime NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 -- --------------------------------------------------------
 
@@ -236,7 +248,6 @@ INSERT INTO `newproduct` (`id`, `pid`, `categoryid`, `quantity`, `userid`, `pric
 (17, 21, 12, 6, 5, '2800.00', '2018-01-05', 5, 0),
 (18, 22, 16, 100, 5, '3000.00', '2018-01-05', 5, 0),
 (19, 23, 13, 2, 5, '2800.00', '2018-01-05', 5, 0),
-(20, 24, 17, 129, 5, '3600.00', '2018-01-21', 5, 0),
 (21, 25, 0, 39, 5, '5300.00', '2018-01-02', 5, 0),
 (22, 26, 0, 151, 5, '1700.00', '2018-01-02', 5, 0),
 (23, 27, 0, 100, 5, '1770.00', '2018-01-02', 5, 0),
@@ -460,7 +471,6 @@ INSERT INTO `newproduct` (`id`, `pid`, `categoryid`, `quantity`, `userid`, `pric
 (242, 68, 4, -16, 5, '2570.00', '2018-03-02', 5, 0),
 (243, 68, 4, -270, 5, '2570.00', '2018-03-02', 5, 0),
 (244, 75, 20, -20, 5, '8500.00', '2018-03-02', 5, 0),
-(245, 24, 17, -2, 5, '3600.00', '2018-03-02', 5, 0),
 (246, 34, 18, -8, 5, '2400.00', '2018-03-02', 5, 0),
 (247, 29, 18, -3, 4, '1680.00', '2018-03-02', 5, 0),
 (248, 30, 18, -4, 5, '1770.00', '2018-03-02', 5, 0),
@@ -600,7 +610,6 @@ INSERT INTO `newproduct` (`id`, `pid`, `categoryid`, `quantity`, `userid`, `pric
 (382, 12, 8, 74, 5, '1930.00', '2018-05-20', 5, 0),
 (383, 43, 5, 200, 5, '10700.00', '2018-05-20', 5, 0),
 (384, 105, 15, 10, 5, '2150.00', '2018-07-27', 2, 0),
-(385, 24, 17, 10, 5, '3600.00', '2018-08-30', 5, 0),
 (386, 14, 15, 5, 5, '2150.00', '2018-08-31', 5, 0),
 (387, 106, 17, 20, 5, '3600.00', '2018-08-31', 2, 0);
 
@@ -647,7 +656,6 @@ INSERT INTO `product` (`id`, `name`, `brandid`, `categoryid`, `quantity`, `useri
 (21, 'Klin', 8, 12, 0, 5, '2800.00', '2018-02-01', 5, 0),
 (22, 'Klin', 8, 16, 30, 5, '3000.00', '2018-02-01', 5, 0),
 (23, 'Klin', 8, 13, 1, 5, '2800.00', '2018-01-05', 5, 0),
-(24, 'Afford', 8, 17, 18, 5, '3600.00', '2018-08-30', 5, 0),
 (25, 'Matches', 11, 0, 39, 5, '5300.00', '2018-01-02', 5, 0),
 (26, 'Vital pure', 12, 0, 151, 5, '1700.00', '2018-01-02', 5, 0),
 (27, 'Vital regular', 12, 0, 100, 5, '1770.00', '2018-01-02', 5, 0),
@@ -708,7 +716,7 @@ INSERT INTO `product` (`id`, `name`, `brandid`, `categoryid`, `quantity`, `useri
 (83, 'Milk tantaliza', 24, 18, 3, 5, '1900.00', '2018-01-03', 5, 0),
 (84, 'Sakarine big', 24, 18, 9, 5, '4000.00', '2018-03-02', 5, 0),
 (85, 'Matches', 25, 18, 136, 5, '5400.00', '2018-04-28', 5, 0),
-(86, 'Bamboo big', 9, 26, 5, 5, '3100.00', '2018-03-22', 5, 0),
+(86, 'Bamboo big', 9, 26, 7, 5, '3100.00', '2018-03-22', 5, 0),
 (87, 'Idc2000', 21, 8, 3, 5, '2200.00', '2018-04-04', 5, 0),
 (88, 'Magik', 8, 1, 1, 5, '2450.00', '2018-03-04', 5, 0),
 (89, 'Garii', 1, 3, 90, 5, '950.00', '2018-05-14', 5, 0),
@@ -9256,8 +9264,7 @@ INSERT INTO `sales` (`id`, `userid`, `customerid`, `productid`, `brandid`, `sour
 (8913, 5, 962, 14, 10, 5, 15, 5, 2, '2150.00', '2018-08-30', 'edjkoiqcms9gc2f96bbl4ppk54', 0),
 (8914, 5, 553, 32, 8, 5, 19, 5, 3, '1950.00', '2018-08-30', 'edjkoiqcms9gc2f96bbl4ppk54', 0),
 (8916, 5, 173, 24, 8, 5, 17, 5, 2, '3600.00', '2018-08-31', '839jclaj38ubpkep2vtogk34u5', 0),
-(8917, 5, 586, 14, 10, 5, 15, 5, 4, '2150.00', '2018-08-31', '839jclaj38ubpkep2vtogk34u5', 0),
-(8918, 5, 638, 86, 9, 5, 26, 5, 1, '3100.00', '2018-08-31', '839jclaj38ubpkep2vtogk34u5', 0);
+(8917, 5, 586, 14, 10, 5, 15, 5, 4, '2150.00', '2018-08-31', '839jclaj38ubpkep2vtogk34u5', 0);
 
 -- --------------------------------------------------------
 
@@ -9322,7 +9329,8 @@ INSERT INTO `userrole` (`userid`, `roleid`) VALUES
 (13, 'Content Editor'),
 (14, 'Content Editor'),
 (15, 'Content Editor'),
-(16, 'Content Editor');
+(16, 'Content Editor'),
+(18, 'Content Editor');
 
 -- --------------------------------------------------------
 
@@ -9340,6 +9348,7 @@ CREATE TABLE `users` (
   `email` varchar(255) DEFAULT NULL,
   `password` char(32) DEFAULT NULL,
   `branchid` int(11) NOT NULL,
+  `photo` varchar(255) NOT NULL,
   `deleted` int(11) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
@@ -9347,23 +9356,30 @@ CREATE TABLE `users` (
 -- Dumping data for table `users`
 --
 
-INSERT INTO `users` (`id`, `name`, `phone`, `address`, `gender`, `userdate`, `email`, `password`, `branchid`, `deleted`) VALUES
-(1, 'Hammed Taofeek', '08035297428', 'no 5 oriire akure', 'Male', '2018-01-06', 'htolajide@yahoo.com', '29fb983fe703ab92c11ecb43879e5d45', 5, 0),
-(3, 'Oyetunji Quadri ', '08101788382', 'Opp. Swift oil, Oremoje, Iseyin', 'Male', '2017-12-18', 'oyetunjiq@gmail.com', 'fd987fe992015725e757e429203eb654', 5, 0),
-(4, 'OGUNTOYE L.O.', '08034555349', 'Opposite Nolad Poles, Ago-ayo Community, Ilesa Garage, Osogbo, Osun State', 'Male', '2018-01-19', 'mentorsword08034555349@gmail.com', '9a4490814b0d57f2874c8e92681b69d4', 5, 0),
-(5, 'Oladoja A. S.', '08088367111', 'Igboora', 'Male', '2018-01-02', 'femioladoja01@gmail.com', 'b9e270bfe5920a0c260faedd8617bbef', 5, 0),
-(6, 'Oluokun Rukayat', '08134956859', 'Goke-ekarun, Atori, Iseyin', 'Female', '2017-12-19', 'ora08134956859@mail.com', 'c93194d9b6745a59d966ee8abf3eeabb', 5, 0),
-(8, 'Adeleke Lateefat', '07057207010', 'Shabab area, Saw-mill, Iseyin', 'Female', '2017-12-19', 'alo07057207010@gmail.com', 'be48314b82faed677200822458c6d05a', 5, 0),
-(9, 'Ipadeola Yekeen', '08063089259', 'Alhaji Oloola, Malete, Iseyin', 'Male', '2017-12-19', 'iy08063089259@gmail.com', '2cb8621532557b0664b2d317f3fd54be', 0, 0),
-(12, 'Ipadeola Yekeen', '08063089259', 'Alhaji Oloola, Malete, Iseyin', 'Male', '2017-12-19', 'iya08063089259@gmail.com', '2cb8621532557b0664b2d317f3fd54be', 5, 0),
-(13, 'Adelere Adefemi', '08068724240', 'Oja-agbe, Iseyin', 'Male', '2017-12-19', 'aai08068724240@gmail.com', '7e1dcffef0d7cad7bbfbe39272f9978f', 3, 0),
-(14, 'Akinola Ayuba', '08100635066', 'Ile-baba abi, Ogunbado, Iseyin', 'Male', '2017-12-19', 'akinolaayubaadeyinka@gmail.com', 'c66e78ac8529c52281aa8ba7f822adf9', 3, 0),
-(15, 'Oladeni Mayowa J ', '07013759544', 'No 5, Arowolo Str. Peller, Iseyin', 'Male', '2018-01-05', 'mzedrack@yahoo.com', '7aabb40e63921e0a1f27c1c2e31edcda', 5, 0),
-(16, 'Muhammed Saheed', '08060304894', 'EMDA Akure', 'Male', '2018-06-07', 'mohammedsaheed@yahoo.com', 'f049c1ce845d78a3031c62aa9f6584ce', 5, 0);
+INSERT INTO `users` (`id`, `name`, `phone`, `address`, `gender`, `userdate`, `email`, `password`, `branchid`, `photo`, `deleted`) VALUES
+(1, 'Hammed Taofeek', '08035297428', 'no 5 oriire akure', 'Male', '2019-08-17', 'htolajide@yahoo.com', '29fb983fe703ab92c11ecb43879e5d45', 5, 'user_photos/5d580fdadf687.png', 0),
+(3, 'Oyetunji Quadri ', '08101788382', 'Opp. Swift oil, Oremoje, Iseyin', 'Male', '2017-12-18', 'oyetunjiq@gmail.com', 'fd987fe992015725e757e429203eb654', 5, '', 0),
+(4, 'OGUNTOYE L.O.', '08034555349', 'Opposite Nolad Poles, Ago-ayo Community, Ilesa Garage, Osogbo, Osun State', 'Male', '2018-01-19', 'mentorsword08034555349@gmail.com', '9a4490814b0d57f2874c8e92681b69d4', 5, '', 0),
+(5, 'Oladoja A. S.', '08088367111', 'Igboora', 'Male', '2018-01-02', 'femioladoja01@gmail.com', 'b9e270bfe5920a0c260faedd8617bbef', 5, '', 0),
+(6, 'Oluokun Rukayat', '08134956859', 'Goke-ekarun, Atori, Iseyin', 'Female', '2017-12-19', 'ora08134956859@mail.com', 'c93194d9b6745a59d966ee8abf3eeabb', 5, '', 0),
+(8, 'Adeleke Lateefat', '07057207010', 'Shabab area, Saw-mill, Iseyin', 'Female', '2017-12-19', 'alo07057207010@gmail.com', 'be48314b82faed677200822458c6d05a', 5, '', 0),
+(9, 'Ipadeola Yekeen', '08063089259', 'Alhaji Oloola, Malete, Iseyin', 'Male', '2017-12-19', 'iy08063089259@gmail.com', '2cb8621532557b0664b2d317f3fd54be', 0, '', 0),
+(12, 'Ipadeola Yekeen', '08063089259', 'Alhaji Oloola, Malete, Iseyin', 'Male', '2017-12-19', 'iya08063089259@gmail.com', '2cb8621532557b0664b2d317f3fd54be', 5, '', 1),
+(13, 'Adelere Adefemi', '08068724240', 'Oja-agbe, Iseyin', 'Male', '2017-12-19', 'aai08068724240@gmail.com', '7e1dcffef0d7cad7bbfbe39272f9978f', 3, '', 1),
+(14, 'Akinola Ayuba', '08100635066', 'Ile-baba abi, Ogunbado, Iseyin', 'Male', '2017-12-19', 'akinolaayubaadeyinka@gmail.com', 'c66e78ac8529c52281aa8ba7f822adf9', 3, '', 0),
+(15, 'Oladeni Mayowa J ', '07013759544', 'No 5, Arowolo Str. Peller, Iseyin', 'Male', '2018-01-05', 'mzedrack@yahoo.com', '7aabb40e63921e0a1f27c1c2e31edcda', 5, '', 1),
+(16, 'Muhammed Saheed', '08060304894', 'EMDA Akure', 'Male', '2018-06-07', 'mohammedsaheed@yahoo.com', 'f049c1ce845d78a3031c62aa9f6584ce', 5, '', 1),
+(18, 'Musibau Nimota', '08035297428', 'Km 4 Ondo Road Akure', 'Male', '2019-08-17', 'musibaunimota@yahoo.com', '29fb983fe703ab92c11ecb43879e5d45', 5, 'user_photos/5d5810dd4c233.png', 1);
 
 --
 -- Indexes for dumped tables
 --
+
+--
+-- Indexes for table `attempted_logins`
+--
+ALTER TABLE `attempted_logins`
+  ADD PRIMARY KEY (`id`);
 
 --
 -- Indexes for table `branch`
@@ -9444,66 +9460,60 @@ ALTER TABLE `users`
 --
 
 --
+-- AUTO_INCREMENT for table `attempted_logins`
+--
+ALTER TABLE `attempted_logins`
+  MODIFY `id` int(30) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=10;
+--
 -- AUTO_INCREMENT for table `branch`
 --
 ALTER TABLE `branch`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
-
 --
 -- AUTO_INCREMENT for table `brand`
 --
 ALTER TABLE `brand`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=28;
-
 --
 -- AUTO_INCREMENT for table `category`
 --
 ALTER TABLE `category`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=27;
-
 --
 -- AUTO_INCREMENT for table `customer`
 --
 ALTER TABLE `customer`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
-
 --
 -- AUTO_INCREMENT for table `movement`
 --
 ALTER TABLE `movement`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=28;
-
 --
 -- AUTO_INCREMENT for table `newproduct`
 --
 ALTER TABLE `newproduct`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=388;
-
 --
 -- AUTO_INCREMENT for table `product`
 --
 ALTER TABLE `product`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=107;
-
 --
 -- AUTO_INCREMENT for table `sales`
 --
 ALTER TABLE `sales`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8919;
-
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8923;
 --
 -- AUTO_INCREMENT for table `transactions`
 --
 ALTER TABLE `transactions`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=14;
-
 --
 -- AUTO_INCREMENT for table `users`
 --
 ALTER TABLE `users`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=17;
-COMMIT;
-
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=19;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
